@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://0.0.0.0:3306/test
+    username: vlad324
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+logging.level.io: trace
+logging.level.net.ttddyy.dsproxy.listener.logging: trace
+#logging.level.org.springframework: debug
